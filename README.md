@@ -1,2 +1,4 @@
 # Simple Monitor
 Just a app to show camera or capture card video fullscreen in Windows 8
+
+This program needs `Microsoft.WinJS.1.0`.
