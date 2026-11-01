@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
-  <Identity Name="BingtangXH.Simple-Monitor" Version="1.0.5.9" Publisher="CN=ninei" />
+  <Identity Name="BingtangXH.Simple-Monitor" Version="1.0.5.11" Publisher="CN=BingtangXH" />
   <Properties>
     <DisplayName>Simple Monitor</DisplayName>
     <PublisherDisplayName>BingtangXH</PublisherDisplayName>
